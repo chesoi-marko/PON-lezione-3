@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color:purple;
+    text-align:center ;
+
+}
+h2{
+    color:rgb(77, 41, 32);
+    text-align:center ;
+
+}
+img.left{
+    width: 300px;
+    border-radius: 50px;
+    float: left;
+    margin: right 25x; 
+}
+
+em{
+    color: red ;
+}
